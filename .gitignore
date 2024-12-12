@@ -1,0 +1,6 @@
+harouzie/
+runs/
+trans/
+__pycache__/
+# web/
+.DS_Store
